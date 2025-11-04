@@ -7,9 +7,6 @@
 <p align="center">
   <a href="#features"><strong>Features</strong></a> ·
   <a href="#tech-stack"><strong>Tech Stack</strong></a> ·
-  <a href="#deploy-to-vercel"><strong>Deploy to Vercel</strong></a> ·
-  <a href="#local-development"><strong>Local Development</strong></a> ·
-  <a href="#environment-variables"><strong>Environment Variables</strong></a>
 </p>
 <br/>
 
