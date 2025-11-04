@@ -1,0 +1,3 @@
+{
+  "/api/ai-predict-player/route": "app/api/ai-predict-player/route.js"
+}

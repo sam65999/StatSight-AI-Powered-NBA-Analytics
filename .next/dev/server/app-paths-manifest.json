@@ -1,0 +1,15 @@
+{
+  "/api/dashboard-metrics/route": "app/api/dashboard-metrics/route.js",
+  "/api/get-profile/route": "app/api/get-profile/route.js",
+  "/api/google-upcoming-games/route": "app/api/google-upcoming-games/route.js",
+  "/api/queries/route": "app/api/queries/route.js",
+  "/api/recent-queries/route": "app/api/recent-queries/route.js",
+  "/dashboard/ai-prediction/page": "app/dashboard/ai-prediction/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/player-comparison/page": "app/dashboard/player-comparison/page.js",
+  "/dashboard/player-stats/page": "app/dashboard/player-stats/page.js",
+  "/dashboard/query-history/page": "app/dashboard/query-history/page.js",
+  "/dashboard/settings/page": "app/dashboard/settings/page.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js"
+}

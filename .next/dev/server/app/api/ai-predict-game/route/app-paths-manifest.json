@@ -1,0 +1,3 @@
+{
+  "/api/ai-predict-game/route": "app/api/ai-predict-game/route.js"
+}

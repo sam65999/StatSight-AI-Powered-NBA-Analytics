@@ -1,0 +1,42 @@
+[00:00:01.645] Server  WARN     ⚠ The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+[00:00:01.868] Server  LOG      ✓ Ready in 1408ms
+[00:00:06.115] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:31.114] Server  LOG        Reload env: .env.local
+[00:06:31.526] Server  LOG      ✓ Compiled in 289ms
+[00:06:34.213] Server  ERROR    ⨯ Error: @supabase/ssr: Your project's URL and API key are required to create a Supabase client!
+
+Check your Supabase project's API settings to find these values
+
+https://supabase.com/dashboard/project/_/settings/api
+[00:06:34.884] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:35.097] Browser ERROR   uncaughtError: Error: @supabase/ssr: Your project's URL and API key are required to create a Supabase client!
+
+Check your Supabase project's API settings to find these values
+
+https://supabase.com/dashboard/project/_/settings/api
+[00:06:40.080] Server  LOG        Reload env: .env.local
+[00:06:40.548] Server  LOG      ✓ Compiled in 258ms
+[00:06:40.555] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:06:40.555] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./lib/supabaseClient.ts changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:06:40.556] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:06:40.967] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:56.204] Server  LOG        Reload env: .env.local
+[00:06:57.672] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:03.740] Server  ERROR    ⨯ Error: supabaseKey is required.
+[00:07:04.855] Browser ERROR   Failed to fetch username: {}
+[00:07:04.893] Server  ERROR    ⨯ Error: supabaseKey is required.
+[00:07:05.016] Browser ERROR   Failed to fetch username: {}
+[00:07:13.473] Server  ERROR    ⨯ Error: supabaseKey is required.
+[00:07:13.608] Server  ERROR    ⨯ Error: supabaseKey is required.
+[00:07:21.688] Server  ERROR    ⨯ Error: supabaseKey is required.
+[00:07:21.824] Server  ERROR    ⨯ Error: supabaseKey is required.
+[00:07:28.820] Server  ERROR    ⨯ Error: supabaseKey is required.
+[00:07:28.945] Server  ERROR    ⨯ Error: supabaseKey is required.
+[00:07:28.950] Browser ERROR   Failed to fetch username: {}
+[00:07:29.065] Browser ERROR   Failed to fetch username: {}
+[00:07:35.202] Server  ERROR    ⨯ Error: supabaseKey is required.
+[00:07:35.344] Server  ERROR    ⨯ Error: supabaseKey is required.
+[00:09:04.008] Server  LOG        Reload env: .env.local
+[00:09:06.010] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:48.280] Server  LOG        Reload env: .env.local
+[00:11:51.121] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
