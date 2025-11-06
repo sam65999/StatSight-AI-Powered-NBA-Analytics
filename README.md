@@ -10,8 +10,6 @@
 </p>
 <br/>
 
-🔴🔴NOT STABLE RIGHT NOW WILL BE FIXING SOON🔴🔴
-
 ## Features
 
 ### 🏀 Core Features
